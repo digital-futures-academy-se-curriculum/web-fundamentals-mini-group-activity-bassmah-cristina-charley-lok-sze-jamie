@@ -8,14 +8,15 @@ font-size: */
     padding: 20px;
 }
 
-.tsandcs {
-    font-size: #898F9C;
+.tsAndCs {
+    color: #898F9C;
     padding: 10px;
     margin-bottom: 20px;
 }
 
-.post {}
-
-.button {
-    color: #00FF00;
+.signUpButton {
+    background-color: #359552;
+    font-weight: bold;
+    font-size: large;
+    color: white;
 }
