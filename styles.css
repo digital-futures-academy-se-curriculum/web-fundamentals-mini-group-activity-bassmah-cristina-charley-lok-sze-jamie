@@ -25,6 +25,11 @@ section {
     margin-left: 50%;
 }
 
+input {
+    border-radius: 10px, 10px, 10px, 10px;
+    margin: 40px;
+}
+
 [type="radio"] {
     font-weight: 300;
 }
@@ -32,7 +37,7 @@ section {
 p.last {
     color: #898F9C;
     padding: 10px;
-    margin-bottom: 20px;
+    margin: 20px;
 }
 
 [type="submit"] {
